@@ -1,0 +1,14 @@
+package aut.isp.lab4.exercise6;
+
+public class Alarm extends Actuator {
+    @Override
+    public void turnOn() {
+        super.setOn(true);
+        System.out.println("The alarm is ON.");
+    }
+    @Override
+    public void turnOff() {
+        super.setOn(false);
+        System.out.println("The alarm is OFF.");
+    }
+}

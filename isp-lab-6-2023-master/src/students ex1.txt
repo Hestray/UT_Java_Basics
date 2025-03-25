@@ -1,0 +1,14 @@
+1, Emma, Barzan, Math, 9
+2, John, Rossis, Philosophy, 10
+2, John, Rossis, English, 10
+2, John, Rossis, Greek, 8
+3, Beatrice, Nanea, Art, 10
+4, Diana, Calistru, Programming, 7
+1, Emma, Barzan, Digital Signal Processing, 10
+1, Emma, Barzan, Music, 10
+3, Beatrice, Nanea, Literature, 10
+3, Beatrice, Nanea, Physics, 8
+4, Diana, Calistru, French, 7
+4, Diana, Calistru, Math, 5
+4, Diana, Calistru, Art, 10
+4, Diana, Calistru, Music, 10
